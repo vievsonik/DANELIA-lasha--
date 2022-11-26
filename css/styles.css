@@ -2,6 +2,7 @@
 .blue{
 	color: #3D37F1;
 	font-size: 36px;
+	font-family: 'IBM Plex Sans';
 }
 .gray{
 	color:#4B647E;
@@ -33,4 +34,5 @@
 	padding-left: 43px;
 	color: #3D37F1;
 	font-size: 20px;
+	font-family: 'IBM Plex Sans';
 }

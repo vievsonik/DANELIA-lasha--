@@ -1,0 +1,36 @@
+/*HEADER*/
+.blue{
+	color: #3D37F1;
+	font-size: 36px;
+}
+.gray{
+	color:#4B647E;
+	font-size: 36px;
+	padding-left: 7px;
+}
+
+.first-divwidth{
+	width:1708px;
+	margin: 0 auto;
+
+}
+.firstitle-div{
+	margin-top: 64px;
+	display: flex;
+
+}
+.firstnavigation-div{
+	display: flex;
+	justify-content: flex-end;
+	
+	
+}
+.navigation-div{
+	display: flex;
+
+}
+.li-block{
+	padding-left: 43px;
+	color: #3D37F1;
+	font-size: 20px;
+}

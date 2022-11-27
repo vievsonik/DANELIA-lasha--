@@ -13,18 +13,28 @@
 .firstblock-width{
 	width:1920px;
 	margin: 0 auto;
-
 }
+.titles-div{
+	display: flex;
+}
+
+
 .firstitle-div{
 	margin-top: 64px;
 	display: flex;
+	align-items: baseline;
+	justify-content: space-between;
 }
 .firstnavigation-div{
 	display: flex;
-	justify-content: flex-end;	
+ 
+
 }
 .navigation-div{
 	display: flex;
+/*	align-items: baseline;*/
+
+
 }
 .li-block{
 	padding-left: 43px;
@@ -43,13 +53,31 @@
 	font-family: 'IBM Plex Sans';
 	color: #534D4D;
 	flex-direction: column;
-	margin-top: 277px;
+/*	margin-top: 277px;*/
+    
+
 }
-.section-leftblocktwo{
-	display: flex;
+.section-leftblocktwo{	
     font-size: 22px;
     color: #534D4D;
-	flex-direction: column;
-	margin-top: 39px;
-
+    /*	margin-top: 39px;*/
+   
+   
+}
+/*.right-blockimage{
+    display: flex;
+	justify-content: flex-end;
+	align-items: baseline;		
+}*/
+.image-size{
+	display: flex;
+	width: 801px;
+	height: 526.63px;
+/*	margin-top: 277px;*/
+}
+.section-maindiv{
+	display: flex;
+/*	align-items: baseline;*/
+	margin-top: 277px;
+	justify-content: space-between;
 }

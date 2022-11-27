@@ -10,29 +10,46 @@
 	padding-left: 7px;
 }
 
-.first-divwidth{
-	width:1708px;
+.firstblock-width{
+	width:1920px;
 	margin: 0 auto;
 
 }
 .firstitle-div{
 	margin-top: 64px;
 	display: flex;
-
 }
 .firstnavigation-div{
 	display: flex;
-	justify-content: flex-end;
-	
-	
+	justify-content: flex-end;	
 }
 .navigation-div{
 	display: flex;
-
 }
 .li-block{
 	padding-left: 43px;
 	color: #3D37F1;
 	font-size: 20px;
 	font-family: 'IBM Plex Sans';
+}
+/*first-section*/
+.firstblock-width{
+	width:1920px;
+	margin: 0 auto;	
+}
+.section-leftblock{
+	font-size: 78px;
+	display: flex;
+	font-family: 'IBM Plex Sans';
+	color: #534D4D;
+	flex-direction: column;
+	margin-top: 277px;
+}
+.section-leftblocktwo{
+	display: flex;
+    font-size: 22px;
+    color: #534D4D;
+	flex-direction: column;
+	margin-top: 39px;
+
 }

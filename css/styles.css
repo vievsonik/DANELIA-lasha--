@@ -55,20 +55,6 @@
 	flex-direction: column;
 		   
 }
-
-
-}
-/*.section-leftblocktwo{	
-    display: flex;
-    font-size: 22px;
-    color: #534D4D;
-    margin-top: 39px;*/
-
-}
-
-}
-
-
 .image-size{
 	display: flex;
 	width: 801px;
@@ -84,7 +70,22 @@
 .k3k3{
 	font-size: 	22px;
 	margin-top: 39px;
+
 	
+
+}
+/*second-section*/
+.second-section{
+	display: flex;
+	background: #3D37F1;
+	width:263.67px ;
+	height:76.77px ;
+	border-radius: 38px;
+	color: #fff;
+	font-size: 22px;
+	align-items: center;
+	justify-content: center;
+	justify-content: space-evenly;
 	
 
 }

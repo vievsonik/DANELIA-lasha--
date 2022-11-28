@@ -164,6 +164,9 @@
 	width: 131px;
 	height: 45px;
 	background: #fff;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
 	border-radius: 23px;
 }
 .active{
@@ -233,5 +236,15 @@
 	justify-content: center;
 	justify-content: space-evenly;
     border-radius:33px;
+}
+.more2{
+	background: #41EAE3;
+	border-color: #fff;
+	color: #fff;
+}
+.more3{
+	background: #A5A2F6;
+	border-color: #fff;
+	color: #fff;
 }
 

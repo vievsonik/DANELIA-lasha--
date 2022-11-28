@@ -128,14 +128,14 @@
 /*fourth-section*/
 .fourth-section{
 	display: flex;
-	align-items: center;
-	justify-content: space-around;
+	flex-direction: row;
+	justify-content: space-evenly;
 	
 }
 .left-div4{
 	display: flex;
 	margin-top: 67px;
-	margin-bottom: 67px;
+/*	margin-bottom: 67px;*/
 	flex-direction: column;
 	width: 370px;
 	height: 451px;

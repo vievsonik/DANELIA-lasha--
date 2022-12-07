@@ -49,20 +49,31 @@
     
 }
 @media (max-width:840px){
-    .fourth-section{
+    /* .fourth-section{
         width:40%;
         height: 40%;
         flex-direction: column;
         margin: 0 auto;
-        flex-wrap: nowrap;
+        
     
-    }
+    } */
 }
 @media (max-width:689px){
     .thirddiv_block{
 
     }
     .center-block2{
-        font-size: 17px;
+        font-size: 25px;
     }
+    .section-leftblock{
+        font-size: 38px;
+    }
+    .span-class{
+        display: flex;
+        justify-content: center;
+    }
+    .center-block3{
+        display: none;
+    }
+    
 }
